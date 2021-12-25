@@ -1,7 +1,0 @@
- "# 0082620970" >> README.md
- init
- add README.md
- commit -m "first commit"
- branch -M main
- remote add origin https://github.com/0082620970/0082620970.git
- push -u origin main
